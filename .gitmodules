@@ -1,6 +1,6 @@
 [submodule "src/dpdk"]
 	path = src/dpdk
-	url = http://dpdk.org/git/dpdk
+	url = http://dpdk.org/git/next/dpdk-next-virtio
 	ignore = dirty
 [submodule "tools/unity"]
 	path = tools/unity
